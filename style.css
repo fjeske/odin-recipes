@@ -1,0 +1,22 @@
+html {
+    background-color: grey;
+}
+
+.images {
+    height: auto;
+    width: 200px;
+}
+
+a {
+    background-color: white;
+}
+
+p {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
